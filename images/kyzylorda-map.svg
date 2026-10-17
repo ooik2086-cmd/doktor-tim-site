@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" fill="none">
+<rect width="900" height="560" fill="#e7f0e8"/>
+<path d="M-40 112 180 196 328 135 488 211 644 122 940 210M-20 430 177 335 327 376 473 307 680 386 930 300M143-30l60 160-53 140 83 140-39 180M421-20l-58 155 57 153-41 155 63 144M713-20l-64 151 84 137-63 159 81 152" stroke="#fffdf6" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M-40 112 180 196 328 135 488 211 644 122 940 210M-20 430 177 335 327 376 473 307 680 386 930 300M143-30l60 160-53 140 83 140-39 180M421-20l-58 155 57 153-41 155 63 144M713-20l-64 151 84 137-63 159 81 152" stroke="#d6e1d5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M170 350C270 275 340 320 426 260s128-44 223-117" stroke="#6f9f99" stroke-width="8" stroke-linecap="round" stroke-dasharray="2 20"/>
+<circle cx="170" cy="350" r="25" fill="#fff"/><circle cx="170" cy="350" r="17" fill="#315d5c"/><text x="170" y="356" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#fff">A</text>
+<circle cx="649" cy="143" r="31" fill="#fff"/><path d="M649 181c-5-8-22-27-22-42a22 22 0 1 1 44 0c0 15-17 34-22 42Z" fill="#c78561"/><circle cx="649" cy="139" r="7" fill="#fff"/><text x="649" y="145" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#c78561">B</text>
+<g fill="#bfd2bd"><rect x="270" y="78" width="75" height="43" rx="10"/><rect x="525" y="412" width="117" height="58" rx="12"/><rect x="744" y="250" width="80" height="42" rx="10"/><rect x="55" y="245" width="67" height="42" rx="10"/></g>
+<g fill="#a9c6ae"><circle cx="345" cy="290" r="16"/><circle cx="775" cy="90" r="20"/><circle cx="276" cy="455" r="13"/><circle cx="560" cy="80" r="12"/></g>
+</svg>
