@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ooik2086-cmd.github.io/doktor-tim-site/sitemap.xml
